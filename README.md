@@ -1,1 +1,1 @@
-# ParadiseShopping
+# coding-project-template
